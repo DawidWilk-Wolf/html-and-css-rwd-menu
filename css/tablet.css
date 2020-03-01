@@ -1,0 +1,15 @@
+/* ./css/tablet.css */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+}
+
+header label {
+    display: none;
+}
